@@ -18,8 +18,8 @@ Every contribution counts. Whether it's a code commit, resolved issue, or pull r
 2. **Leadership, Communication and Collaboration Award**
    - _Description:_ A prestigious recognition for AI professionals who excel in leading complex projects, demonstrating exceptional communication acumen and fostering collaborative environments. This award highlights their ability to synergize diverse AI talents towards achieving groundbreaking innovations.
 
-3. **Problem Solver, Solution Driven and Efficient Development Award**
-   - _Description:_ Awarded to AI engineers who consistently exhibit proficiency in identifying, analyzing, and resolving intricate AI-related challenges. This accolade underscores their aptitude for solution-driven approaches and efficiency in navigating the complexities of AI development, contributing significantly to advancing project goals.
+3. **Problem Solver, Solution Driven and Task Prioritization Award**
+   - _Description:_ Awarded to AI engineers who demonstrate exceptional problem-solving skills and efficiency in task prioritization within projects. This prestigious award recognizes individuals who adeptly manage and resolve a wide array of issues reported in open source repositories, showcasing their capability to identify key problems, devise effective solutions, and prioritize tasks strategically. Their proficiency in using GitHub's Issues to streamline project workflows, enhance collaboration, and drive forward AI innovations sets them apart as leaders in the field of artificial intelligence.
 
 4. **Exceptional Code Quality Award**
    - _Description:_ Honors AI engineers who uphold the highest standards in code quality, particularly in AI-centric software development. This award signifies a dedication to crafting clean, optimized, and scalable AI algorithms and systems, ensuring robustness and efficacy in AI solutions.
