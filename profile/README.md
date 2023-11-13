@@ -12,7 +12,7 @@ Every contribution counts. Whether it's a code commit, resolved issue, or pull r
 
 ## Certifications
 
-1. **Active Engagement and Participation Award**
+1. **Active Engagement and Participation Certificate**
    - _Description:_ Recognizes AI engineers for their extraordinary engagement and active participation in AI project development. This award highlights their dedication to the continual evolution of AI technologies, and whose whose activity on GitHub reflects a deep and consistent engagement, marked by impactful contributions to various stages of AI project development, inspiring progress and innovation in the ever-evolving landscape of artificial intelligence. This award is specifically designed to recognize AI engineers who exhibit exceptional dedication and involvement in AI projects.
 
 2. **Open Source Software Contribution Certificate**
