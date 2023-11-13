@@ -10,7 +10,7 @@ What sets us apart is our commitment to real-world application and collaboration
 
 Every contribution counts. Whether it's a code commit, resolved issue, or pull request, your active participation earns you certificates of achievement. These certificates are not just achievements of knowledge but symbols of your practical skills and collaborative spirit - attributes highly sought after by large tech companies.
 
-## List of Certifications
+## Certifications
 
 1. **Commit Commitment Award**: For engineers who excel in frequent and substantial contributions to extensive codebases.
 
@@ -34,4 +34,4 @@ Every contribution counts. Whether it's a code commit, resolved issue, or pull r
 
 ## Connect with Us
 
-Start our Github organization to recieve updates, insights, and collaboration opportunities to our certification system.
+Star our Github organization to recieve updates, insights, and collaboration opportunities to our certification system.
