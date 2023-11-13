@@ -80,8 +80,6 @@
 - data-sentience-works-example
 - titan-neural-structure-example
 
-generate 1 cli command what will install all these apps
-
 1. apps/core-platform
 2. apps/customer-portal
 3. apps/admin-dashboard
