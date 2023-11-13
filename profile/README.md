@@ -12,25 +12,20 @@ Every contribution counts. Whether it's a code commit, resolved issue, or pull r
 
 ## Certifications
 
-1. **Commit Commitment Award**: For engineers who excel in frequent and substantial contributions to extensive codebases.
+1. **Open Source Software Contribution Certificate**
+   - _Description:_ Distinguishes individuals who have made significant and impactful contributions to open-source AI projects. This certificate recognizes mastery in advancing the field of AI through collaborative, open-source platforms, underscoring a deep commitment to community-driven innovation and the democratization of AI technology.
 
-2. **Pull Request Prodigy Certificate**: Recognizing mastery in creating, merging, and managing pull requests in complex projects.
+2. **Leadership, Communication and Collaboration Award**
+   - _Description:_ A prestigious recognition for AI professionals who excel in leading complex projects, demonstrating exceptional communication acumen and fostering collaborative environments. This award highlights their ability to synergize diverse AI talents towards achieving groundbreaking innovations.
 
-3. **Issue Resolution Expert Certificate**: Awarded to those adept in identifying and resolving issues in large-scale software applications.
+3. **Problem Solver, Solution Driven and Efficient Development Award**
+   - _Description:_ Awarded to AI engineers who consistently exhibit proficiency in identifying, analyzing, and resolving intricate AI-related challenges. This accolade underscores their aptitude for solution-driven approaches and efficiency in navigating the complexities of AI development, contributing significantly to advancing project goals.
 
-4. **Code Quality Maestro Award**: For engineers who uphold the highest standards of code quality, crucial in large and intricate systems.
+4. **Exceptional Code Quality Award**
+   - _Description:_ Honors AI engineers who uphold the highest standards in code quality, particularly in AI-centric software development. This award signifies a dedication to crafting clean, optimized, and scalable AI algorithms and systems, ensuring robustness and efficacy in AI solutions.
 
-5. **Active Engagement Laureate**: Recognizing consistent participation in significant software development projects.
-
-6. **Collaborative Coder Certificate**: For those who demonstrate exceptional teamwork skills in collaborative coding environments.
-
-7. **Innovative Problem Solver Award**: Given to engineers who provide innovative and efficient solutions in software development.
-
-8. **Git Guardian Badge**: For meticulous management and oversight of extensive project repositories.
-
-9. **Peer Review Leader Award**: Recognizing engineers who actively engage in and contribute to peer code reviews in large projects.
-
-10. **Efficient Implementer Certificate**: Awarded to those known for effective and efficient coding implementations in large applications.
+5. **Active Engagement and Participation Award**
+   - _Description:_ Recognizes AI professionals for their extraordinary engagement and active participation in AI project development. This award highlights their dedication to the continual evolution of AI technologies, marked by consistent involvement and impactful contributions to various stages of AI project development.
 
 ## Connect with Us
 
