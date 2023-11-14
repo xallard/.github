@@ -1,2 +1,2 @@
-# .github
-Artificial Intelligence Institute of Technology
+# Xallard
+https://github.com/xallard
