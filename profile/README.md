@@ -1,4 +1,4 @@
-# Welcome to the Artificial Intelligence Institute.
+# Welcome to Xallard.
 
 We offer a unique educational experience that transcends traditional learning. Our programs are tailored to empower the next generation of AI Engineers, equipping students and professionals with cutting-edge knowledge and practical skills in a collaborative environment.
 
