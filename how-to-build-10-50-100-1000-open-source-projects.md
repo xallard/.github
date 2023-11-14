@@ -11,37 +11,48 @@ On top of your well earned degree, these ChatGPT prompts will help you compete, 
 ## Prompt 1
 
 ```
-You are a [type of company you're targeting] founder looking to hire a Senior [Front End | Back End | Full Stack] Software Engineer. List 50 names of open source projects you would like to see on a candidate's resume, and tells you the candidate is experienced in building large scalable [codebases | projects | applications | enterprise software].
+You are a [type of company you're targeting] founder looking to hire
+a Senior [Front End | Back End | Full Stack] Software Engineer.
+List 50 names of open source projects you would like to see on a candidate's resume,
+and tells you the candidate is experienced in building
+large scalable [codebases | projects | applications | enterprise software].
 ```
 
 ## Prompt 2
 
-```bash
-List [10 | 50 | 100 | 1,000] fictitious repository names that will showcase experience in building large scalable and efficient [codebases | projects | applications | enterprise software] for a [type of company you're targeting] company.
+```
+List [10 | 50 | 100 | 1,000] fictitious repository names
+that will showcase experience in building large scalable and
+efficient [codebases | projects | applications | enterprise software]
+for a [type of company you're targeting] company.
 ```
 
 ## Prompt 3
 
-```bash
-Expand on the [favorite fictitious repository name] repository. Description, goals and libraries used.
+```
+Expand on the [favorite fictitious repository name] repository.
+Description, goals and libraries used.
 ```
 
 ## Prompt 4
 
-```bash
-Generate a scalable file structure for [favorite fictitious repository name].
+```
+Generate a scalable file structure for [favorite fictitious repository name]
 ```
 
 ## Prompt 5
 
-```bash
-In [favorite fictitious repository name], generate a fictitious file in [choose a folder from the generated file structure above]
+```
+In [favorite fictitious repository name],
+generate a fictitious file in [choose a folder from the generated file structure above]
 ```
 
 or
 
-```bash
-Generate a fictitious file for [favorite fictitious repository name]. This file will handle the logic for [choose a topic from the repository description above]. Include the folder location.
+```
+Generate a fictitious file for [favorite fictitious repository name].
+This file will handle the logic for [choose a topic from the repository description above].
+Include the folder location.
 ```
 
 ## Repeat
