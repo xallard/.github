@@ -12,11 +12,11 @@ Every contribution counts. Whether it's a code commit, resolved issue, or pull r
 
 ## Start Your Journey Now
 
-Here's our step-by-step guide on how you can get started on this rewarding journey [CONTRIBUTIONS.md](./CONTRIBUTIONS.md)
+Here's our step-by-step guide on how you can get started on this rewarding journey [CONTRIBUTIONS.md](./profile/CONTRIBUTIONS.md)
 
 ## Certifications: Your Pathway to Getting Hired at Large Tech Companies
 
-Discover the journey to obtaining our prestigious certifications, each carefully designed to catch the eye of engineering hiring managers and startup founders. Our certifications aren't just accolades; they are a testament to your skills, knowledge, and commitment to the field of software engineering. Delve into the criteria and process for each certificate [CERTIFICATIONS.md](./CERTIFICATIONS.md), and understand how they can elevate your resume, LinkedIn, and Github profiles, showcasing you as a highly trained software engineer ready to make impactful contributions to large codebases. These certifications are your stepping stones to standing out in the competitive tech industry.
+Discover the journey to obtaining our prestigious certifications, each carefully designed to catch the eye of engineering hiring managers and startup founders. Our certifications aren't just accolades; they are a testament to your skills, knowledge, and commitment to the field of software engineering. Delve into the criteria and process for each certificate [CERTIFICATIONS.md](./profile/CERTIFICATIONS.md), and understand how they can elevate your resume, LinkedIn, and Github profiles, showcasing you as a highly trained software engineer ready to make impactful contributions to large codebases. These certifications are your stepping stones to standing out in the competitive tech industry.
 
 ## Connect with Us
 
