@@ -10,6 +10,10 @@ What sets us apart is our commitment to real-world application and collaboration
 
 Every contribution counts. Whether it's a code commit, resolved issue, or pull request, your active participation earns you certificates of achievement. Each certificate represents not just a mastery of engineering methologies but also a proficiency in essential skills like data-driven decision-making, high-level problem-solving, and robust system architecture design. This initiative ensures that as you evolve in your learning journey, you're recognized for acquiring hands-on experience and deep technical expertise in software architecture with the acquisition of critical soft skills, such as collaborative teamwork, project leadership, and creating efficient, scalable code with innovation-driven practices, positioning you at the forefront of adaptive, forward-thinking, and software engineering excellence that large tech companies value.
 
+## Start Your Journey Now
+
+Here's our step-by-step guide on how you can get started on this rewarding journey [CONTRIBUTIONS.md](./CONTRIBUTIONS.md)
+
 ## Certifications
 
 ### 1. **Active Engagement and Participation Certificate**
